@@ -1,4 +1,11 @@
-
+<h2> &#8203 &#8203
+	<a href="https://t.me/dnielpy">
+		<img width="20px" src="https://simpleicons.now.sh/telegram/4c5861" />
+	</a>
+	<a href="https://twitter.com/_sheyls](https://www.linkedin.com/in/daniel-quesada-6a24822aa">
+		<img width="20px" src="https://simpleicons.now.sh/linkedin/4c5861" />
+	</a>
+</h3>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
