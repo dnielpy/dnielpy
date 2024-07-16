@@ -10,7 +10,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="a.jpg" alt="snake" />
+  <img  src="1.jpg" alt="snake" />
 </div>
 
 
