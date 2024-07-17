@@ -8,30 +8,28 @@
 </h3>
 <!--horizontal divider(gradiant)-->
 
-<!--- snake -->
-<div align="center">
-  <img  src="1.jpg" alt="snake" />
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Hey there, i'm dnielpy ⚡️</h2></summary>
   </ul>
 </div>
 
+![LeetCode stats](https://leetcard.jacoblin.cool/dnielpy)
 
 <!--Intro start-->
 - 💻 Backend Developer
-- ☕️ JavaDev 
+- ☕️ JavaDev
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,css,postgres,html,linux,py,&perline=14" />
-  </a>
+</a>
+
 </p>
+
+
 <!--Intro end-->
 
 ----------------------------------------------------------------------
