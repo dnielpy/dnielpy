@@ -13,25 +13,29 @@
   <img  src="1.jpg" alt="snake" />
 </div>
 
+----------------------------------------------------------------------
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div align="center">
   <ul>
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">It's a feature, not a bug</h2></summary>
   </ul>
 </div>
 
-![LeetCode stats](https://leetcard.jacoblin.cool/dnielpy)
-
 <!--Intro start-->
-- 💻 Backend Developer
-- ☕️ JavaDev
+### - 💻 Backend Developer
+### - ☕️ JavaDev    
+### - 📚 Learning Spring-Boot
+
+----------------------------------------------------------------------
+## My LeetCode stats
+
+![LeetCode stats](https://leetcard.jacoblin.cool/dnielpy)
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,css,postgres,html,linux,py,&perline=14" />
 </a>
-
 </p>
 
 
