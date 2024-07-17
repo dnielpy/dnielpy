@@ -13,10 +13,9 @@
   <img  src="1.jpg" alt="snake" />
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
