@@ -22,8 +22,8 @@
 </div>
 
 <!--Intro start-->
-### - 💻 Backend Developer
-### - ☕️ JavaDev    
+### - 💻 Software Engineering Student
+### - 🎥 YouTuber  
 ### - 📚 Learning Spring-Boot
 
 ----------------------------------------------------------------------
