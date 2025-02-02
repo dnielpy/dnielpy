@@ -24,7 +24,7 @@
 <!--Intro start-->
 ### - 💻 Software Engineering Student
 ### - 🎥 YouTuber  
-### - 📚 Learning Spring-Boot
+### - 📚 Learning Frontend Development
 
 ----------------------------------------------------------------------
 ## My LeetCode stats
