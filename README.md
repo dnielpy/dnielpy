@@ -12,22 +12,11 @@
 </div>
 
 <!--Intro start-->
-<p align="left">
-  <div align="left" style="display: flex; flex-direction: column; align-items: flex-start;">
-    <p style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-      <span style="font-size: 18px; margin-left: 10px;"><a href="https://example.com/software-engineering">Software Engineering Student</a></span>
-    </p>
-    <p style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=htmx" />
-      <span style="font-size: 18px; margin-left: 10px;"><a href="https://www.linkedin.com/in/daniel-quesada-010182235">Frontend Developer</a></span>
-    </p>
-    <p style="display: flex; align-items: center;">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-      <span style="font-size: 18px; margin-left: 10px;"><a href="https://www.youtube.com/@Daniel_Quesada">YouTuber</a></span>
-    </p>
-  </div>
-</p>
+
+<!--Intro start-->
+### - 💻 Software Engineering Student
+### - 🎥 YouTuber  
+### - 📚 Learning Frontend Development
 
 ## Technologies I Use
 <!--Intro end-->
