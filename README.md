@@ -16,7 +16,7 @@
 <!--Intro start-->
 ### - 💻 Software Engineering Student
 ### - 🎥 YouTuber  
-### - 📚 Learning Frontend Development
+### - ⚙️ Frontend Developer
 
 ## Technologies I Use
 <!--Intro end-->
